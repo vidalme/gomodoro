@@ -1,1 +1,1 @@
-# Um Clone de Pomodor para CLI
+# Um clone de Pomodoro para CLI
